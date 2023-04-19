@@ -197,6 +197,11 @@ img{
 .bg-dark-blue p{
   margin: 0;
 }
+.aside-secondary-title:hover{
+  cursor: pointer;
+  color: var(--Soft-orange);
+  transition: 800ms;
+}
 /* footer */
 footer{
   padding-top: clamp(5rem,5.5vw,6rem);
